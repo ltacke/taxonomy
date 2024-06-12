@@ -139,3 +139,4 @@ scratch.ipynb
 
 # Ignore config.yaml from the cli
 config.yaml
+models/merlinite-7b-lab-Q4_K_M.gguf
